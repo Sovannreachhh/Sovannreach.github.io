@@ -1,0 +1,8 @@
+CREATE TABLE Product (
+    id INT PRIMARY KEY,
+    name VARCHAR(255),
+    price_per_unit DOUBLE,
+    active_for_sell BOOLEAN
+);
+
+Sorry teacher I have problem with docker can't connect to database

@@ -25,7 +25,7 @@ public class ProductDisplay {
 
                 System.out.println("ID: " + id + ", Name: " + name + ", Price per Unit: " + pricePerUnit + ", Active for Sell: " + activeForSell);
             }
-            
+
             resultSet.close();
             statement.close();
             connection.close();
